@@ -1,6 +1,7 @@
 body {
     margin: 0 auto;
     padding: 1em 0;
+    background-color: gray;
 }
 
 #mapid { 
@@ -10,8 +11,11 @@ body {
 header,
 aside,
 footer {
-    background-color: lightblue;
+    background-color: #c8a2c8;
     padding: 1em;
+    border-radius: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 header, footer {
